@@ -12,8 +12,8 @@ This project provides an interactive cubic Bézier curve implementation where us
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/cubic-bezier-visualization.git
-   cd cubic-bezier-visualization
+   git clone https://github.com/jhaanurag/Vanilla-JS-Custom-Bezier-Curve.git
+   cd Vanilla-JS-Custom-Bezier-Curve
   \
 2. Open index.html in your browser to view the project.
 ## How It Works
