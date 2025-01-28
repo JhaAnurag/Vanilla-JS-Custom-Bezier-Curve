@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cubic Bezier Curve</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="graph-container">
+    <svg id="graph" width="100%" height="100%">
+      <rect x="200" y="200" width="200" height="200" stroke="#ccc" stroke-width="1" fill="none" />
+      <path id="curve" stroke="#007bff" stroke-width="2" fill="none" />
+      <circle id="p1" class="control-point" r="8" fill="#ff5722" />
+      <circle id="p2" class="control-point" r="8" fill="#ff5722" />
+      <text id="p1-label" class="point-label" x="0" y="0" fill="#000" font-size="12" font-family="monospace"></text>
+      <text id="p2-label" class="point-label" x="0" y="0" fill="#000" font-size="12" font-family="monospace"></text>
+    </svg>
+  </div>
+  <div id="box"></div>
+  <script src="script.js"></script>
+</body>
+</html>
