@@ -14,7 +14,7 @@ This project provides an interactive cubic Bézier curve implementation where us
    ```bash
    git clone https://github.com/yourusername/cubic-bezier-visualization.git
    cd cubic-bezier-visualization
-  \```
+  \
 Open index.html in your browser to view the project.
 ## How It Works
 1. Control Points: Dragging control points updates their coordinates in real-time.
