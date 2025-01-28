@@ -15,7 +15,7 @@ This project provides an interactive cubic Bézier curve implementation where us
    git clone https://github.com/yourusername/cubic-bezier-visualization.git
    cd cubic-bezier-visualization
   \
-Open index.html in your browser to view the project.
+2. Open index.html in your browser to view the project.
 ## How It Works
 1. Control Points: Dragging control points updates their coordinates in real-time.
 2. Curve Calculation: The cubic Bézier curve is rendered dynamically using an SVG <path> and recalculated based on the control points.
